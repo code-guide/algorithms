@@ -1,0 +1,23 @@
+{
+  "name": "code-guide-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -w ./test/**/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-guide/algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code-guide/algorithms/issues"
+  },
+  "homepage": "https://github.com/code-guide/algorithms#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
